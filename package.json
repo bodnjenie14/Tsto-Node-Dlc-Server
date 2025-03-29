@@ -1,0 +1,12 @@
+{
+  "name": "dlc-file-server",
+  "version": "1.0.0",
+  "description": "Bods tsto DLC server",
+  "main": "node_file_server.js",
+  "scripts": {
+    "start": "node node_file_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
